@@ -1825,3 +1825,7 @@ div.rta__autocomplete.str-chat__emojisearch {
   }
 }
 
+
+.str-chat__channel-list.str-chat__channel-list-react {
+  background: #005fff;
+}

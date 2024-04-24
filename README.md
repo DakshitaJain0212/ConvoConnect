@@ -2,8 +2,8 @@
 
 
 🔗 Code Repositories:
-- React [frontend] - https://github.com/DakshitaJain0212/ConvoConnect-server
-- Node [backend] - https://github.com/DakshitaJain0212/ConvoConnect-client
+- React [frontend] - https://github.com/DakshitaJain0212/ConvoConnect-client
+- Node [backend] - https://github.com/DakshitaJain0212/ConvoConnect-server 
 
  Technical Details :
 - React 18 
